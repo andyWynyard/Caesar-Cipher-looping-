@@ -4,7 +4,7 @@ import java.io.PrintWriter;
 
 public class CaesarCipher {
 	/**
-	*Returns the carachter shifted by the given number of letters.
+	*Returns the character shifted by the given number of letters.
 	*/
 	public static char shiftLetter(char c, int n) {
 		int u = c;
